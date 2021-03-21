@@ -1,3 +1,4 @@
 {
-	"coc.preferences.formatOnSaveFiletypes": ["html", "css", "javascript", "typescript"]
+	"coc.preferences.formatOnSaveFiletypes": ["html", "css", "javascript", "typescript"],
+	"suggest.noselect": false
 }
