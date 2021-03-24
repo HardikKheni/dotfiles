@@ -1,4 +1,5 @@
 {
-	"coc.preferences.formatOnSaveFiletypes": ["html", "css", "javascript", "typescript"],
-	"suggest.noselect": false
-}
+           "coc.preferences.formatOnSaveFiletypes": ["html", "css", "javascript",     "typescript"],
+           "suggest.noselect": false,
+           "typescript.preferences.importModuleSpecifier": "relative"
+  }
